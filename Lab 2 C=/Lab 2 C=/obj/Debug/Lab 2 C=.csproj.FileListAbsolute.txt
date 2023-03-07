@@ -1,0 +1,11 @@
+C:\Users\Тарас\source\repos\Lab 2 C=\Lab 2 C=\bin\Debug\Lab 2 C=.exe.config
+C:\Users\Тарас\source\repos\Lab 2 C=\Lab 2 C=\bin\Debug\Lab 2 C=.exe
+C:\Users\Тарас\source\repos\Lab 2 C=\Lab 2 C=\bin\Debug\Lab 2 C=.pdb
+C:\Users\Тарас\source\repos\Lab 2 C=\Lab 2 C=\bin\Debug\ClassLibrary1 Lab 2 C=.dll
+C:\Users\Тарас\source\repos\Lab 2 C=\Lab 2 C=\bin\Debug\ClassLibrary1 Lab 2 C=.pdb
+C:\Users\Тарас\source\repos\Lab 2 C=\Lab 2 C=\obj\Debug\Lab 2 C=.csproj.AssemblyReference.cache
+C:\Users\Тарас\source\repos\Lab 2 C=\Lab 2 C=\obj\Debug\Lab 2 C=.csproj.SuggestedBindingRedirects.cache
+C:\Users\Тарас\source\repos\Lab 2 C=\Lab 2 C=\obj\Debug\Lab 2 C=.csproj.CoreCompileInputs.cache
+C:\Users\Тарас\source\repos\Lab 2 C=\Lab 2 C=\obj\Debug\Lab 2 C=.csproj.CopyComplete
+C:\Users\Тарас\source\repos\Lab 2 C=\Lab 2 C=\obj\Debug\Lab 2 C=.exe
+C:\Users\Тарас\source\repos\Lab 2 C=\Lab 2 C=\obj\Debug\Lab 2 C=.pdb

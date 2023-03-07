@@ -1,0 +1,30 @@
+﻿  StaticLib Lab 2 C++.cpp
+  String.cpp
+C:\Users\Тарас\source\repos\StaticLib Lab 2 C++\StaticLib Lab 2 C++\String.cpp(3,1): error C2653: String: не является именем класса или пространства имен
+C:\Users\Тарас\source\repos\StaticLib Lab 2 C++\StaticLib Lab 2 C++\String.cpp(4,1): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\Тарас\source\repos\StaticLib Lab 2 C++\StaticLib Lab 2 C++\String.cpp(5,1): warning C4508: String: функция должна возвращать значение; предполагается возвращаемый тип "void"
+C:\Users\Тарас\source\repos\StaticLib Lab 2 C++\StaticLib Lab 2 C++\String.cpp(6,1): error C2653: String: не является именем класса или пространства имен
+C:\Users\Тарас\source\repos\StaticLib Lab 2 C++\StaticLib Lab 2 C++\String.cpp(7,1): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\Тарас\source\repos\StaticLib Lab 2 C++\StaticLib Lab 2 C++\String.cpp(6,16): error C2084: функция "int String(void)" уже имеет текст реализации
+C:\Users\Тарас\source\repos\StaticLib Lab 2 C++\StaticLib Lab 2 C++\String.cpp(3,9): message : см. предыдущее определение "String"
+C:\Users\Тарас\source\repos\StaticLib Lab 2 C++\StaticLib Lab 2 C++\String.cpp(9,6): error C2653: String: не является именем класса или пространства имен
+C:\Users\Тарас\source\repos\StaticLib Lab 2 C++\StaticLib Lab 2 C++\String.cpp(11,22): error C3861: Size: идентификатор не найден
+C:\Users\Тарас\source\repos\StaticLib Lab 2 C++\StaticLib Lab 2 C++\String.cpp(13,7): error C2065: value: необъявленный идентификатор
+C:\Users\Тарас\source\repos\StaticLib Lab 2 C++\StaticLib Lab 2 C++\String.cpp(15,24): error C3861: Size: идентификатор не найден
+C:\Users\Тарас\source\repos\StaticLib Lab 2 C++\StaticLib Lab 2 C++\String.cpp(17,5): error C2065: value: необъявленный идентификатор
+C:\Users\Тарас\source\repos\StaticLib Lab 2 C++\StaticLib Lab 2 C++\String.cpp(17,16): error C2065: value: необъявленный идентификатор
+C:\Users\Тарас\source\repos\StaticLib Lab 2 C++\StaticLib Lab 2 C++\String.cpp(23,5): error C2653: String: не является именем класса или пространства имен
+C:\Users\Тарас\source\repos\StaticLib Lab 2 C++\StaticLib Lab 2 C++\String.cpp(26,9): error C3861: GetString: идентификатор не найден
+C:\Users\Тарас\source\repos\StaticLib Lab 2 C++\StaticLib Lab 2 C++\String.cpp(32,6): error C2653: String: не является именем класса или пространства имен
+C:\Users\Тарас\source\repos\StaticLib Lab 2 C++\StaticLib Lab 2 C++\String.cpp(34,11): error C2065: value: необъявленный идентификатор
+C:\Users\Тарас\source\repos\StaticLib Lab 2 C++\StaticLib Lab 2 C++\String.cpp(37,6): error C2653: String: не является именем класса или пространства имен
+C:\Users\Тарас\source\repos\StaticLib Lab 2 C++\StaticLib Lab 2 C++\String.cpp(37,26): error C2039: "string": не является членом "std".
+C:\Users\Тарас\source\repos\StaticLib Lab 2 C++\StaticLib Lab 2 C++\predefined C++ types (compiler internal)(342,11): message : см. объявление "std"
+C:\Users\Тарас\source\repos\StaticLib Lab 2 C++\StaticLib Lab 2 C++\String.cpp(37,14): error C2182: "Change": недопустимое использование "void"
+C:\Users\Тарас\source\repos\StaticLib Lab 2 C++\StaticLib Lab 2 C++\String.cpp(37,33): error C2065: string: необъявленный идентификатор
+C:\Users\Тарас\source\repos\StaticLib Lab 2 C++\StaticLib Lab 2 C++\String.cpp(37,33): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "New"
+C:\Users\Тарас\source\repos\StaticLib Lab 2 C++\StaticLib Lab 2 C++\String.cpp(38,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\Тарас\source\repos\StaticLib Lab 2 C++\StaticLib Lab 2 C++\String.cpp(38,1): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Users\Тарас\source\repos\StaticLib Lab 2 C++\StaticLib Lab 2 C++\String.cpp(41,6): error C2653: String: не является именем класса или пространства имен
+C:\Users\Тарас\source\repos\StaticLib Lab 2 C++\StaticLib Lab 2 C++\String.cpp(43,2): error C2065: value: необъявленный идентификатор
+  Создание кода...
